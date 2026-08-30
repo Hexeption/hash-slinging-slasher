@@ -1,0 +1,3 @@
+28da77b3da3ec92b,i_c_t8_mp_spe_recon_samurai1_torso_exo_s
+28da82b3da3edbdc,i_c_t8_mp_spe_recon_samurai1_torso_exo_n
+28da8bb3da3eeb27,i_c_t8_mp_spe_recon_samurai1_torso_exo_g

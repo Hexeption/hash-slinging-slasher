@@ -1,0 +1,2 @@
+4a103b8b4189acf3,mc/mtl_p8_cas_slot_machine_poker_sign_emissive_01
+63085fe9ae70e556,mc/mtl_wpn_t8_loot_tr_flechette_strap_sig_01
