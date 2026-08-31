@@ -1,0 +1,7 @@
+13715035b161a0c3,zmb_flashlight_turn_off
+4206ae215dc46321,mus_common_exfil_loop_0
+4438b32a87c97aae,uin_gameendscore_ffa_score
+4ff3d44fe6a17436,evt_silver_exfil_fail
+631599bbf1c7f514,evt_igc_cia_satellite_susp
+64c4ff2b874bb50d,mus_silver_exfil_loop_0
+70bf928fb3b7bf41,evt_silver_exfil_success
