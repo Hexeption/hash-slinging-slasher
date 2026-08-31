@@ -1,0 +1,2 @@
+216037ab12abbe48,mc/mtl_veh_t8_civ_truck_semi_body_back_01_halo_white
+7b2e21db7d539a9c,mc/mtl_veh_t8_civ_truck_semi_tag_box_trailer_back_halo_white
