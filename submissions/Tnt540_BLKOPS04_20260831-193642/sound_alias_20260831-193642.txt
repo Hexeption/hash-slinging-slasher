@@ -1,0 +1,1 @@
+14ec1c71faa218d4,wpn_katana_atk_npc_friendly
