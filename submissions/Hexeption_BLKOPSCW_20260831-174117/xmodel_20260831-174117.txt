@@ -1,0 +1,2 @@
+4409a354dd61569e,p9_ctf_flag_warsaw_blue
+592aa91190e3938d,p9_ctf_flag_warsaw_red
