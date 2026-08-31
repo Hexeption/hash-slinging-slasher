@@ -1,0 +1,5 @@
+24608ddf5fe7af2c,vox_m_quest_ward_taunt_ward_9
+24608edf5fe7b0df,vox_m_quest_ward_taunt_ward_8
+246091df5fe7b5f8,vox_m_quest_ward_taunt_ward_5
+246093df5fe7b95e,vox_m_quest_ward_taunt_ward_7
+246094df5fe7bb11,vox_m_quest_ward_taunt_ward_6
