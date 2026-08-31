@@ -1,0 +1,6 @@
+1f2f2c9bc14a6694,wpn_pistol_npc_rv_decay_int
+1ff264c8a40930fd,mpl_scream_slasher_spawn
+21e091ef1f28a97b,wpn_pistol_plr_rv_decay_int
+5ad484e58187d56b,vox_fuze_mtx_execute_nice_try
+6d52e8f8b81bd7be,vox_beck_mtx_execute_nice_try
+7af26daddd2c01be,vox_lazr_mtx_execute_nice_try
