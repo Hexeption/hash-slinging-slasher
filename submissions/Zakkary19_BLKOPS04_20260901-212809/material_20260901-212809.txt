@@ -1,0 +1,3 @@
+17716d4ad13f2cc3,mc/mtl_c_t8_mp_spe_engineer_body1_decal_knee_lt_cst
+31e57140343c1a19,mc/mtl_c_t8_mp_spe_engineer_body1_decal_knee_rt_cst
+3c2f0e9c42cac9d9,mc/mtl_veh_t8_civ_van_utility_decal_cdc_stripe
