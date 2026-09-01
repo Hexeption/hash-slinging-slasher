@@ -1,0 +1,2 @@
+3373fa681b6170dc,i_mtl_p8_afr_fountain_palace_gate_arch_01_stone_m
+3373fd681b6175f5,i_mtl_p8_afr_fountain_palace_gate_arch_01_stone_n
