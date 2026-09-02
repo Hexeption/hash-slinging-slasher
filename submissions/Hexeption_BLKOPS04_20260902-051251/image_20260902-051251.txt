@@ -1,0 +1,6 @@
+37e1a7206a8a82bb,46_specialist_super_fan
+4e8f88949c0546da,45_not_a_fluke
+5769dd915959071a,50_stargazer
+5dd43667e03c62ef,48_blackout_historian
+63a93a9828f827dc,47_zombie_fanatic
+69bbf0bf80365018,52_skirmisher
