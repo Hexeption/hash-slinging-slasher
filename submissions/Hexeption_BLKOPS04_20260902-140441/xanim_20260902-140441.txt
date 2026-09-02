@@ -1,0 +1,2 @@
+32be2f8dcd646316,pt_shotgun_t8_semiauto_stand_reload_empty
+66ad0a2dbc043f58,pt_shotgun_t8_semiauto_prone_reload_empty
