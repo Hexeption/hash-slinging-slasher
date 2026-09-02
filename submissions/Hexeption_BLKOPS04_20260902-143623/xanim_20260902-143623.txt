@@ -1,0 +1,2 @@
+2f7e9937849d78b9,pt_shotgun_t8_pump_prone_reload_partial
+4f4b25bea8e1a558,pt_shotgun_t8_semiauto_prone_reload_partial
