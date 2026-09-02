@@ -1,0 +1,3 @@
+93b4ea82c300228,vm_slide_scepter_additive
+10b3072cc4189deb,vm_ir_strobe_gesture_additive
+6e309adb0871ade5,vm_ir_strobe_gesture_rh
