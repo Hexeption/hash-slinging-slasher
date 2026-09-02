@@ -1,0 +1,2 @@
+283e3c90e2b99fac,mc/mtl_veh_t9_civ_truck_semi_80s_base_body_front_d_metal_b_wht
+5c9b9a9148736cec,mc/mtl_veh_t9_civ_truck_semi_80s_base_body_front_d_metal_b_blu
