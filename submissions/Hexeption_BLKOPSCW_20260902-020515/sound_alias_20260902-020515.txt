@@ -1,0 +1,2 @@
+249a2778ac3afb27,zmb_s2_requiem_audiolog_5_sfx_swt
+27001cd7d0eb2fd8,zmb_ai_steiner_spawn_stinger_swt
