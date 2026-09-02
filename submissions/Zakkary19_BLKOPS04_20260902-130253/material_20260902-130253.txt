@@ -1,0 +1,4 @@
+4a9430de3931d61,splm/mtl_p8_jpn_rooftop_03_tile_grey_dark
+5e563606968e6530,clt/mtl_p8_jpn_rooftop_03_tile_grey_dark
+6ebea0f4c0b2bf6f,mc/mtl_p8_wz_spd_supply_stash_chest_metal_011
+7822a57df2205cf9,mc/mtl_p8_jpn_rooftop_03_tile_grey_dark
