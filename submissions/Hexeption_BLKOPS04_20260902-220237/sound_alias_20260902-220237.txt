@@ -1,0 +1,2 @@
+1591d5795ff3cab,wpn_flamethrower_tornado_activate_npc
+5805b657c71b12a6,wpn_flamethrower_tornado_activate_plr
