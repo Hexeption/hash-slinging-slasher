@@ -1,0 +1,4 @@
+d2e06020cee8899,mc/mtl_p8_foliage_tree_baobab_sapling_trunk
+3453523481e54c47,ei/gfx8_vision_stone_paint_hanging_eyes
+441b5836676496ea,ei/gfx8_vision_stone_paint_hanging_bg
+7bc0d3b05b53407f,ei/gfx8_vision_stone_paint_hanging_close
