@@ -1,0 +1,3 @@
+10d3544751e709b2,mc/mtl_veh_t9_civ_truck_semi_80s_base_body_front_d_plastic_orange_dead
+20877ee390147439,mc/mtl_c_t9_zmb_tun_dr_peck_shirt_left
+3b3bc3aee7310bba,mc/mtl_c_t9_zmb_civ_long_shirt_tan_ww1
