@@ -1,0 +1,2 @@
+4bb392b3b2181d05,mc/mtl_veh_t9_civ_truck_semi_80s_base_body_roof_metal_c_red_snow
+60626fdcd502c187,mc/mtl_veh_t9_civ_truck_semi_80s_base_body_roof_metal_c_wht_snow
