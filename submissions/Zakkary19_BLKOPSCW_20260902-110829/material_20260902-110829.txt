@@ -1,0 +1,4 @@
+8c9d1deb8f5b90e,mc/mtl_p9_mal_arcade_cabinet_joystick_yellow
+1d238f0a847ab12d,mc/mtl_p9_mal_arcade_cabinet_joystick_red
+39c9ef2bdb50a9d2,mc/mtl_c_t9_zmb_rus_mechz_leg_upr_mtl_paint_01
+3c94fd0126357114,mc/mtl_p9_mal_arcade_cabinet_joystick_purple
