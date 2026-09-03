@@ -1,0 +1,4 @@
+43813bbf085b55d,ei/gfx9_muzzle_gas_side_sm_atlas_1p_hdrg
+2d37ddae9ec77b8d,ei/gfx9_muzzle_gas_side_sm_atlas_3p_hdrg_desat
+2ff368956197519f,ei/gfx9_muzzle_gas_side_sm_atlas_3p_hdrg
+4565bff48cc9da9d,ei/gfx9_muzzle_gas_side_sm_pap_atlas_3p_hdrg
