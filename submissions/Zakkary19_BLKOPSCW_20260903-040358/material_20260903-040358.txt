@@ -1,0 +1,4 @@
+1d3036d9c42a408f,mc/mtl_p9_rm_vlg_single_door_metal_01_decal_lock
+2e2db8283aba4abb,mc/mtl_p9_rm_drv_wooden_fence_decal_wear
+5f408c518a8ec03d,mc/mtl_p9_rm_vlg_fence_metal_green_01_decal_frame
+6294bcda6ba91ca3,splm/mtl_p9_rm_drv_wooden_fence_decal_wear
