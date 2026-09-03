@@ -1,0 +1,3 @@
+6c48027a957bfce,mc/mtl_veh_t8_civ_car_racer_decal_diaysler_03
+6c48127a957c181,mc/mtl_veh_t8_civ_car_racer_decal_diaysler_02
+489795ef87ea347b,mc/mtl_veh_t8_civ_car_racer_decal_no_lift_02
