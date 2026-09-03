@@ -1,0 +1,2 @@
+69881532eb05b5d1,pt_rifle_stand_grab_gesture_rh
+6e309adb0871ade5,vm_ir_strobe_gesture_rh
