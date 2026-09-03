@@ -1,0 +1,3 @@
+365f5e6940f54230,p9_rm_zoo2_cafeteria_window_02
+365f616940f54749,p9_rm_zoo2_cafeteria_window_01
+7e0b411f5b581e96,p9_rm_zoo2_cafeteria_fence
