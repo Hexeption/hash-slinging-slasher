@@ -1,0 +1,3 @@
+373d1974fa05375c,mc/mtl_p8_wz_photo_frame_metal_stand_01_c
+373d1a74fa05390f,mc/mtl_p8_wz_photo_frame_metal_stand_01_b
+6af255eacd88f6e5,mc/p8_aut_decal_metal_low_tech_details_08
