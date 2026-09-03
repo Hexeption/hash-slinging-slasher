@@ -1,0 +1,3 @@
+3fa7987713682750,mc/mtl_rob_zm_werewolf_dust_lit
+439e9d2b56ed8796,mc/mtl_rob_zm_werewolf_dust
+707c1a1212cad922,mtl_postfx_bundle_explosive_damage
