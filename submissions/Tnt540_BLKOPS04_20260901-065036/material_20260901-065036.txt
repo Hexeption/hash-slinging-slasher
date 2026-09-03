@@ -1,0 +1,2 @@
+3c755919bc722bfd,mc/mtl_veh_t8_mil_air_razorback_decal_tech_detail_panel_04
+7340b4753243a80f,mc/mtl_veh_t8_mil_air_razorback_decal_panel_line_circle_01
