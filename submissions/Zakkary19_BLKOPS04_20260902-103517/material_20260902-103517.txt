@@ -1,0 +1,3 @@
+2ab4eac4a8e0cd46,mcs/mtl_p8_lv8_vertical_banner_01_tattered
+34c816601c751cbc,mcs/mtl_p8_lv8_vertical_banner_03_tattered
+4e376959819bd2bd,mcs/mtl_p8_lv8_vertical_banner_02_tattered
