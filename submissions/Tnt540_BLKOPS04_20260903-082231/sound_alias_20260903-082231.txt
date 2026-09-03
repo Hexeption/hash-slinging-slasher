@@ -1,0 +1,3 @@
+1346c0a0b1febd9d,wpn_wasp_buddy_turret_stop
+5533c2ace113cc03,wpn_wasp_buddy_turret_loop
+7243300e8fdfa417,wpn_wasp_buddy_turret_start
