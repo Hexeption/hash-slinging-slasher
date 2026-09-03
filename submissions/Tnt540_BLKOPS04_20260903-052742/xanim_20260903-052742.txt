@@ -1,0 +1,2 @@
+226dacc333be8d55,pt_dw_prone_rightarm_reload
+2c1478fc4792ade3,pt_dw_stand_rightarm_reload
