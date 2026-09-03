@@ -1,0 +1,3 @@
+580e96f0c6e783ff,i_p8_jpn_rooftop_ornament_wood_m
+580e97f0c6e785b2,i_p8_jpn_rooftop_ornament_wood_n
+580e98f0c6e78765,i_p8_jpn_rooftop_ornament_wood_o
