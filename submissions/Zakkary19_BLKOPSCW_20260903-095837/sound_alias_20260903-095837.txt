@@ -1,0 +1,3 @@
+1be2964a7d1ecab1,wpn_rifle_npc_suppressed_decay
+2271a3b47a9b248e,wpn_rifle_plr_suppressed_decay
+48b7f40885de4258,amb_sml_line_fire
