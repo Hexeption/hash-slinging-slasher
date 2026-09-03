@@ -1,0 +1,4 @@
+19a3f3d6a7705a80,mc/mtl_wpn_t9_smg_heavy_spikes_gasoline
+456f6e9b337204ad,mc/mtl_c_t9_usa_boot_leggings_01
+60b312440d1829b9,mc/mtl_attach_t9_val_handguard_02_smg_heavy_swiss_bpu
+720feb11a633d3a4,mc/mtl_attach_t9_val_barrel_smg_heavy_swiss_bpu
