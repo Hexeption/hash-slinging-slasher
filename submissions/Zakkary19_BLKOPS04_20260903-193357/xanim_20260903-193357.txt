@@ -1,0 +1,3 @@
+1b4ca7d5da95a71b,pt_shotgun_t8_pump_stand_reload_empty_sl
+43d37ba4b54a6d33,pt_shotgun_t8_pump_crouch_reload_empty_sl
+5abb8f82160f0c95,pt_shotgun_t8_pump_prone_reload_empty_sl
