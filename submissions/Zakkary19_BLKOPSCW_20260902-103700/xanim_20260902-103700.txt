@@ -1,0 +1,2 @@
+1c57799a5f8be447,pt_rifle_t9_ar_standard_inspect_prone_fem_fastmag
+699778254ea2e7d8,pt_pistol_t9_pi_semiauto_fem_prone_firstraise_ext
