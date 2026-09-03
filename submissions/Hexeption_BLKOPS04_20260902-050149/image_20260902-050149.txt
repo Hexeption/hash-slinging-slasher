@@ -1,0 +1,3 @@
+6329b15476a666b,fxt8_pstfx_zm_fire_blue_trap_c
+3037b20744746e58,fxt8_pstfx_zm_fire_blue_trap_vignette
+407deaaed7c3c782,ui_icon_sig_buckler_dw_mp
