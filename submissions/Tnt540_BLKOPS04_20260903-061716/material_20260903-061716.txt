@@ -1,0 +1,3 @@
+3c2f0e9c42cac9d9,mc/mtl_veh_t8_civ_van_utility_decal_cdc_stripe
+3f04838d8d28985e,mc/mtl_veh_t8_civ_firetruck_body_attachment_paintmetal
+738c1b1cf840774d,mc/mtl_veh_t8_civ_car_racer_body_01_mirror
