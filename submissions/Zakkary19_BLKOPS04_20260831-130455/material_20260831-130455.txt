@@ -1,0 +1,3 @@
+5a46924191a8802d,mc/mtl_veh_t8_civ_truck_mini_tag_trash_attach_body_int_dirty
+738c1b1cf840774d,mc/mtl_veh_t8_civ_car_racer_body_01_mirror
+7e33fec6f734e820,mc/mtl_veh_t8_civ_car_racer_body_03_light
