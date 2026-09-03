@@ -1,0 +1,3 @@
+72d753fdfbcd4cb3,mc/mtl_p8_zm_man_bedroom_fireplace_stone01
+72d755fdfbcd5019,mc/mtl_p8_zm_man_bedroom_fireplace_stone03
+72d756fdfbcd51cc,mc/mtl_p8_zm_man_bedroom_fireplace_stone04
