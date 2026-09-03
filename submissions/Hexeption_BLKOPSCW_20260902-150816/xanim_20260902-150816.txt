@@ -1,0 +1,2 @@
+5f85432952f8691a,pt_pistol_t9_pi_burst_dw_stand_rightarm_reload_empty
+667a49ee0fe06af3,pt_pistol_t9_pi_semiauto_dw_stand_rightarm_reload_empty
