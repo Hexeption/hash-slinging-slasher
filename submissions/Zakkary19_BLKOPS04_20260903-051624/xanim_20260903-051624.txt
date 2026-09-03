@@ -1,0 +1,4 @@
+1517c83deaad0f69,pt_shotgun_t8_semiauto_prone_inspect
+229dbe947bf7533e,pt_shotgun_t8_pump_prone_inspect
+42612abf42e7aa3b,pt_shotgun_t8_semiauto_stand_inspect
+4d30bb828b7bdfa4,pt_shotgun_t8_pump_stand_inspect
