@@ -1,0 +1,2 @@
+34e1267f5521adbc,pb_cin_mp_dune_kgb_intro_sh040_player1_pistol
+5f7b1dfd40b753c9,pb_bow_t9_mantle_over_high_75
