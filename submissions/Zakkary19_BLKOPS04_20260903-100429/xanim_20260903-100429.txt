@@ -1,0 +1,2 @@
+3cbfa8c543c9947d,vm_ballistic_knife_t8_dw_fire_ext_l
+3cbfaac543c997e3,vm_ballistic_knife_t8_dw_fire_ext_r
