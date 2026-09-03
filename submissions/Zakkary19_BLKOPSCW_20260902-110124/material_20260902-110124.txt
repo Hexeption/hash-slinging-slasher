@@ -1,0 +1,2 @@
+1c9d3f4b4a60fddf,ei/gfx9_muzzle_gas_side_sm_pap_atlas_1p_hdrg
+49ff52e57d58e35b,ei/gfx9_muzzle_gas_side_sm_atlas_1p_hdrg_desat
