@@ -1,0 +1,3 @@
+6458ea89078094f1,i_attach_t9_smg_handling_mixbody_01_gilded_g
+6458ee8907809bbd,i_attach_t9_smg_handling_mixbody_01_gilded_c
+6458fe890780b6ed,i_attach_t9_smg_handling_mixbody_01_gilded_s
