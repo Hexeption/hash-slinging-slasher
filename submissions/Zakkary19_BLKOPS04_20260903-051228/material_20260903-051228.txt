@@ -1,0 +1,2 @@
+65da918da475f122,mc/mtl_p6_skt_officetable_wood
+6bc5afe33effb376,mc/mtl_p6_skt_officetable_metal
