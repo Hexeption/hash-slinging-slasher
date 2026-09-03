@@ -1,0 +1,2 @@
+d0718ff81a9bee,mc/mtl_veh_t9_civ_truck_pickup_80s_decal_4x4
+359c9270d994399a,mc/mtl_blazer_01_a_gray_double_sided
