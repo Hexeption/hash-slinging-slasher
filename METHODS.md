@@ -539,7 +539,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | cold war sound all-boundary uncarried one-segment endings current | 1 | 2 | 16 | 45,395,181,202 | 2,837,198,825 | 729,559,242 | 17,590,675,905 | 2026-09-01 | 2026-09-01 | spent |
 | confirmed-only all-boundary uncarried sound endings cw snowball | 1 | 1 | 5 | 15,368,153,680 | 3,073,630,736 | 3,073,630,736 | 3,073,630,736 | 2026-09-02 | 2026-09-02 | untried |
 | all-boundary sound cores x uncarried sound endings, 2 segment(s), top 200000 | 1 | 2 | 196 | 642,349,141,010 | 3,277,291,535 | 2,310,125,571 | 5,635,819,063 | 2026-08-29 | 2026-08-29 | live |
-| all-boundary sound cores x uncarried sound endings | 1 | 63 | 1,782 | 6,111,633,755,927 | 3,429,648,572 | 304,356,933 | 59,321,595,135 | 2026-08-25 | 2026-09-01 | spent |
+| all-boundary sound cores x uncarried sound endings | 1 | 64 | 1,788 | 6,234,167,318,119 | 3,486,670,759 | 304,356,933 | 59,321,595,135 | 2026-08-25 | 2026-09-01 | spent |
 | measured tails of length 28 | 1 | 2 | 57 | 199,395,031,004 | 3,498,158,438 | 1,917,259,913 | 1,917,259,913 | 2026-08-25 | 2026-08-25 | live |
 | v2 xanim borrowed endings, ranks 3001-4000 | 1 | 2 | 8 | 28,690,662,000 | 3,586,332,750 | 2,009,436,000 | 14,624,610,000 | 2026-08-28 | 2026-09-01 | cooling |
 | cold war uncarried two-segment endings | 2 | 3 | 56 | 204,946,704,804 | 3,659,762,585 | 33,648,412 | 33,648,412 | 2026-08-26 | 2026-08-31 | live |
@@ -716,7 +716,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-638 distinct methods, run 719 ways between them, across 2566 runs. `names` is what each run
+638 distinct methods, run 719 ways between them, across 2567 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
