@@ -87,6 +87,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | final byte solved backwards | 1 | 125 | 3,124 | 2,736,528 | 875 | 18 | 11,881 | 2026-08-22 | 2026-09-03 | spent |
 | gaps | 2 | 5 | 376 | 346,722 | 922 | 190 | 50,180 | 2026-08-20 | 2026-08-27 | spent |
 | reverse final-byte solve after source refresh | 1 | 1 | 3 | 4,051 | 1,350 | 1,350 | 1,350 | 2026-09-03 | 2026-09-03 | untried |
+| hashindex bo4 bocw global and script labels | 1 | 1 | 160 | 352,925 | 2,205 | 2,205 | 2,205 | 2026-09-04 | 2026-09-04 | untried |
 | final-byte-after-xanim-seed | 1 | 1 | 16 | 35,919 | 2,244 | 2,244 | 2,244 | 2026-08-29 | 2026-08-29 | untried |
 | black ops 4 final byte after upstream corpus refresh | 1 | 1 | 1 | 2,267 | 2,267 | 2,267 | 2,267 | 2026-09-01 | 2026-09-01 | untried |
 | final-byte after current findings | 1 | 1 | 5 | 11,775 | 2,355 | 2,355 | 2,355 | 2026-09-01 | 2026-09-01 | untried |
@@ -672,7 +673,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | measured shells, head 6 tail 5, top 1600 | 1 | 2 | 7 | 2,852,940,114,638 | 407,562,873,519 | 356,617,514,329 | 356,617,514,329 | 2026-09-03 | 2026-09-03 | live |
 | v2 material borrowed endings, ranks 56001-64000 | 1 | 2 | 8 | 3,394,468,255,500 | 424,308,531,937 | 339,049,575,900 | 566,406,792,000 | 2026-08-26 | 2026-08-26 | live |
 | v2 material borrowed endings, ranks 80001-88000 | 1 | 1 | 4 | 1,698,956,343,000 | 424,739,085,750 | 424,739,085,750 | 424,739,085,750 | 2026-08-26 | 2026-08-26 | untried |
-| general search | 2 | 104 | 117,201 | 4,262,586,373,382,105 | 506,787,108,950 | 35,073,084,706 | 52,313,119,515,710 | 2026-08-19 | 2026-09-03 | spent |
+| general search | 2 | 105 | 117,235 | 4,367,209,938,014,405 | 517,135,575,845 | 35,073,084,706 | 52,313,119,515,710 | 2026-08-19 | 2026-09-03 | spent |
 | heads of length 4 | 1 | 4 | 15 | 8,064,939,064,064 | 537,662,604,270 | 220,031,196,218 | 2,041,581,679,232 | 2026-08-24 | 2026-09-02 | cooling |
 | measured shells, head 5 tail 5, top 1000 | 1 | 1 | 1 | 560,093,508,975 | 560,093,508,975 | 560,093,508,975 | 560,093,508,975 | 2026-09-02 | 2026-09-02 | untried |
 | v2 material borrowed endings, ranks 1-8000 | 1 | 1 | 3 | 1,694,983,846,500 | 564,994,615,500 | 564,994,615,500 | 564,994,615,500 | 2026-08-25 | 2026-08-25 | untried |
@@ -715,7 +716,7 @@ table under a name you would not have guessed is the thing you are about to rebu
 | weapon vocabulary growth, then attachment unfolding | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 | names already found and verified, but never sent | 1 | 1 | 0 | - | - | - | - | 2026-08-19 | 2026-08-19 | unmeasured |
 
-637 distinct methods, run 718 ways between them, across 2564 runs. `names` is what each run
+638 distinct methods, run 719 ways between them, across 2566 runs. `names` is what each run
 found new to the machine that ran it. A blank candidate count means no run of that method
 recorded one, so it cannot be ranked -- see `--unattributed`.
 <!-- END GENERATED REGISTRY -->
