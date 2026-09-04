@@ -1,0 +1,2 @@
+2e9130e20f564268,mc/mtl_veh_t8_civ_truck_semi_body_front_halo_white
+3eba6234cd15f026,mc/mtl_veh_t8_civ_truck_semi_engine_halo_white
