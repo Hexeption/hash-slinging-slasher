@@ -29,7 +29,14 @@ import os
 import re
 import sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Found by walking up rather than by counting parents: this script is written in `contrib/`
+# and filed under `scripts/contributed/`, so a fixed depth is right in one place and wrong in
+# the other -- see scripts/README.md.
+ROOT = os.path.dirname(os.path.abspath(__file__))
+while ROOT != os.path.dirname(ROOT) and not os.path.isfile(
+    os.path.join(ROOT, "scripts", "snapshot.py")
+):
+    ROOT = os.path.dirname(ROOT)
 TABLES = ("fnv1a_ximages.csv", "fnv1a_xmodels.csv", "fnv1a_xmaterials.csv")
 
 # `<family>_ui_icon_<kind>_<rest>`, where rest is `<theme>_<tier><n>_<subject>`.

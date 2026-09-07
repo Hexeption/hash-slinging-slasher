@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sound aliases recombined inside the cell the game files them in, not across the whole corpus.
+r"""Sound aliases recombined inside the cell the game files them in, not across the whole corpus.
 
 Recombining the named sound corpus against itself is measured dead in both games, under every
 shape anybody has tried -- numbered takes, directory x basename, tail swaps, all-boundary cores,
@@ -36,7 +36,14 @@ import os
 import re
 import sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Found by walking up rather than by counting parents: this script is written in `contrib/`
+# and filed under `scripts/contributed/`, so a fixed depth is right in one place and wrong in
+# the other -- see scripts/README.md.
+ROOT = os.path.dirname(os.path.abspath(__file__))
+while ROOT != os.path.dirname(ROOT) and not os.path.isfile(
+    os.path.join(ROOT, "scripts", "snapshot.py")
+):
+    ROOT = os.path.dirname(ROOT)
 MASK = (1 << 63) - 1
 BASIS = 0xCBF29CE484222325
 PRIME = 0x100000001B3
